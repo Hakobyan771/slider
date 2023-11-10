@@ -1,0 +1,9 @@
+.itk__slider{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.itk__slider .slide-imgs{
+    max-width: 70%;
+}
